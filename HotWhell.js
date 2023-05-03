@@ -51,8 +51,8 @@ if (corsa <= dinheiro / 2) {
     console.log(`Não comprei o corsa`)
 }
 
-// Com esses 12 reais consigo compra um FUSCÃO PREEEEEEEEEEEEEEEEEEEETOOOOOO
+// Com esses 12 reais consigo compra um FUSCÃO PRETO
 
 if (fuscãoPreto <= dinheiro) {
-    console.log(`Comprei um FUSCÃO PREEEEEEEEEEEEEEEEEEEETOOOOOO`)
+    console.log(`Comprei um FUSCÃO PRETO`)
 }
